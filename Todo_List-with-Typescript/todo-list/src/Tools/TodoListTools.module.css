@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  padding: 0 5px;
+  margin-top: 24px;
+}
+
+.button {
+  display: flex;
+  border: 0;
+  padding: 0;
+  font-size: 16px;
+  color: #c0c0c0;
+  background-color: white;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checkAllIcon {
+  font-size: 30px;
+  margin-right: 8px;
+}
+
+.removeAllButton {
+  margin-left: auto;
+}
+
+.removeAllIcon {
+  margin-right: 8px;
+  font-size: 30px;
+}
